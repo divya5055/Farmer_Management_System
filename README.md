@@ -106,9 +106,6 @@ python app.py
 * Reduce the role of intermediaries.
 * Improve market accessibility for farmers.
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
 
 ## 🔮 Future Enhancements
 
