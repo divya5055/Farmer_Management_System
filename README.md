@@ -122,7 +122,8 @@ python app.py
 * MSc Computer Science Student
 * MES's Abasaheb Garware College, Pune
 * GitHub: https://github.com/divya5055
-* LinkedIn: Add your LinkedIn profile link here.
+* LinkedIn:https://www.linkedin.com/in/divyachoudhari2004
+* portfolio:https://divya5055.github.io/Portfolio/
 
 ## 📄 License
 
